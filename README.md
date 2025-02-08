@@ -31,6 +31,19 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | Mitre Att&CK          | <a href="https://github.com/Pe225/Cybersecurity/blob/main/Mitre%20Att%26Ck.md">Link</a>|
 
+
+## Progetti IT
+
+| Nome  Project                                 | Link Progetto              | Skills/Knowledge Gained |
+|-----------------------------------------------|----------------------------|-------------------------|
+| Montaggio PC: Guida Rapida e Facile | <a href=""> </a> | Hardware |
+| Configurare Ubuntu su VM (VirtualBox)  || Virtualizzation |
+|Bloccare Siti Web in Modo Sicuro: DNS, Firewall, OpenDNS || DNS, Firewall |
+| Configurare un Nuovo Utente su Azure AD (Active Directory): Passaggi Essenziali  || Active Directory |
+| Creare un Ticket in Modo Semplice su Zendesk || Ticket |
+|Gestione software su Linux || Linux |
+
+
 ### Documentazione
 <div>
     <a href="https://www.splunk.com/"><img src="https://www.splunk.com/content/dam/splunk-blogs/images/2016/07/IZs6mb60tEc0z534zMDoxOjBzMTu0hl.jpeg" width="100" /></a>
