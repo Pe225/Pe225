@@ -46,7 +46,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Nome  Project                                 | Link Progetto              | Skills/Knowledge Gained |
 |-----------------------------------------------|----------------------------|-------------------------|
-| Nessus e la Gestione delle Vulnerabilità: Proteggi la Tua Rete | <a href=""></a>| SAST, Vulnerability |
+| Nessus e la Gestione delle Vulnerabilità: Proteggi la Tua Rete | <a href=""></a>| DAST, Vulnerability |
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 |Phishing                                       |||
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
