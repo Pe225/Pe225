@@ -16,12 +16,12 @@ Il mio percorso nell'informatica mi ha portato a sviluppare una passione per la 
 
 | Nome  Project                                 | Link Progetto              | Skills/Knowledge Gained |
 |-----------------------------------------------|----------------------------|-------------------------|
-| Montaggio PC: Guida Rapida e Facile | <a href="https://docs.google.com/document/d/1-RM1CQkPemERhYeg81QtzD4JR0v_bLpkqnHjO8bFpaE/edit?tab=t.0"> </a> | Hardware |
-| Configurare Ubuntu su VM (VirtualBox)  | <a href="https://docs.google.com/document/d/1Z2Hx4F5pl71cSDmbel_DfbULfC-Rd4SUvFVSbFBPN5k/edit?usp=sharing"> </a> | Virtualizzation |
-|Bloccare Siti Web in Modo Sicuro: DNS, Firewall, OpenDNS | <a href="https://docs.google.com/document/d/1ze7yJ0xzSmgSi0B4ufCYEyoWVsTugOwhki-8cjzFwD0/edit?usp=sharing"> </a> || DNS, Firewall |
-| Configurare un Nuovo Utente su Azure AD (Active Directory): Passaggi Essenziali  |<a href="https://docs.google.com/document/d/1Lr1sZf5PcNU-uktil5lTyxWi-BTt6yEhuoivZyKMJ-0/edit?usp=sharing"> | Active Directory |
-| Creare un Ticket in Modo Semplice su Zendesk |<a href="https://docs.google.com/document/d/1VwOGMmglPZ8uZ__oUzW3QviqXkYmKko4Y2uz5UaiOGo/edit?usp=sharing"> | Ticket |
-|Gestione software su Linux |<a href="https://docs.google.com/document/d/1JrcqEEBmwr4kthk3NbMJzxHRZp9mcOs7PAL5HJJRYiA/edit?usp=sharing"> | Linux |
+| Montaggio PC: Guida Rapida e Facile | <a href="https://docs.google.com/document/d/1-RM1CQkPemERhYeg81QtzD4JR0v_bLpkqnHjO8bFpaE/edit?tab=t.0">Link</a> | Hardware |
+| Configurare Ubuntu su VM (VirtualBox)  | <a href="https://docs.google.com/document/d/1Z2Hx4F5pl71cSDmbel_DfbULfC-Rd4SUvFVSbFBPN5k/edit?usp=sharing">Link</a> | Virtualizzation |
+|Bloccare Siti Web in Modo Sicuro: DNS, Firewall, OpenDNS | <a href="https://docs.google.com/document/d/1ze7yJ0xzSmgSi0B4ufCYEyoWVsTugOwhki-8cjzFwD0/edit?usp=sharing">Link</a>  || DNS, Firewall |
+| Configurare un Nuovo Utente su Azure AD (Active Directory): Passaggi Essenziali  |<a href="https://docs.google.com/document/d/1Lr1sZf5PcNU-uktil5lTyxWi-BTt6yEhuoivZyKMJ-0/edit?usp=sharing">Link</a> | Active Directory |
+| Creare un Ticket in Modo Semplice su Zendesk |<a href="https://docs.google.com/document/d/1VwOGMmglPZ8uZ__oUzW3QviqXkYmKko4Y2uz5UaiOGo/edit?usp=sharing">Link</a> | Ticket |
+|Gestione software su Linux |<a href="https://docs.google.com/document/d/1JrcqEEBmwr4kthk3NbMJzxHRZp9mcOs7PAL5HJJRYiA/edit?usp=sharing">Link</a> | Linux |
 
 
 
