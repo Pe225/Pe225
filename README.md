@@ -2,29 +2,28 @@
 
 <a href="https://www.linkedin.com/in/giuseppe-prinzivalli-756690282"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 Di recente mi sono appassionato alla sicurezza informatica 
 
 
 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Il mio percorso nell'informatica mi ha portato a sviluppare una passione per la sicurezza informatica e ora non vedo l'ora di entrare in questo campo, con l'obiettivo specifico di entrare a far parte di un Team
 
 
 ## Progetti IT
 
 | Nome  Project                                 | Link Progetto              | Skills/Knowledge Gained |
 |-----------------------------------------------|----------------------------|-------------------------|
-| Montaggio PC: Guida Rapida e Facile | <a href=""> </a> | Hardware |
-| Configurare Ubuntu su VM (VirtualBox)  || Virtualizzation |
-|Bloccare Siti Web in Modo Sicuro: DNS, Firewall, OpenDNS || DNS, Firewall |
-| Configurare un Nuovo Utente su Azure AD (Active Directory): Passaggi Essenziali  || Active Directory |
-| Creare un Ticket in Modo Semplice su Zendesk || Ticket |
-|Gestione software su Linux || Linux |
+| Montaggio PC: Guida Rapida e Facile | <a href="https://docs.google.com/document/d/1-RM1CQkPemERhYeg81QtzD4JR0v_bLpkqnHjO8bFpaE/edit?tab=t.0"> </a> | Hardware |
+| Configurare Ubuntu su VM (VirtualBox)  | <a href="https://docs.google.com/document/d/1Z2Hx4F5pl71cSDmbel_DfbULfC-Rd4SUvFVSbFBPN5k/edit?usp=sharing"> </a> | Virtualizzation |
+|Bloccare Siti Web in Modo Sicuro: DNS, Firewall, OpenDNS | <a href="https://docs.google.com/document/d/1ze7yJ0xzSmgSi0B4ufCYEyoWVsTugOwhki-8cjzFwD0/edit?usp=sharing"> </a> || DNS, Firewall |
+| Configurare un Nuovo Utente su Azure AD (Active Directory): Passaggi Essenziali  |<a href="https://docs.google.com/document/d/1Lr1sZf5PcNU-uktil5lTyxWi-BTt6yEhuoivZyKMJ-0/edit?usp=sharing"> | Active Directory |
+| Creare un Ticket in Modo Semplice su Zendesk |<a href="https://docs.google.com/document/d/1VwOGMmglPZ8uZ__oUzW3QviqXkYmKko4Y2uz5UaiOGo/edit?usp=sharing"> | Ticket |
+|Gestione software su Linux |<a href="https://docs.google.com/document/d/1JrcqEEBmwr4kthk3NbMJzxHRZp9mcOs7PAL5HJJRYiA/edit?usp=sharing"> | Linux |
+
+
 
 ### Network
 <div>
