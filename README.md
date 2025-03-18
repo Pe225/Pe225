@@ -23,6 +23,11 @@ Il mio percorso nell'informatica mi ha portato a sviluppare una passione per la 
 | Creare un Ticket in Modo Semplice su Zendesk |<a href="https://docs.google.com/document/d/1VwOGMmglPZ8uZ__oUzW3QviqXkYmKko4Y2uz5UaiOGo/edit?usp=sharing">Link</a> | Ticket |
 |Gestione software su Linux |<a href="https://docs.google.com/document/d/1JrcqEEBmwr4kthk3NbMJzxHRZp9mcOs7PAL5HJJRYiA/edit?usp=sharing">Link</a> | Linux |
 
+## Cybersecurity
+
+| Nome  Project                                 | Link Progetto              | Skills/Knowledge Gained |
+|-----------------------------------------------|----------------------------|-------------------------|
+| Esempio DAD/CIE Triade per un Sito Web | <a href="https://docs.google.com/document/d/19cf3JnNvvdCy69KgeT0Z1jEIeFUrw0LTtjCLLYEQtTA/edit?usp=sharing">Link</a> | CIA/DAD |
 
 
 ### Network
