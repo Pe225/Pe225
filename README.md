@@ -46,7 +46,6 @@ Il mio percorso nell'informatica mi ha portato a sviluppare una passione per la 
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Nome  Project                                 | Link Progetto              | Skills/Knowledge Gained |
 |-----------------------------------------------|----------------------------|-------------------------|
@@ -93,8 +92,6 @@ Il mio percorso nell'informatica mi ha portato a sviluppare una passione per la 
 |Syslog|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
 
 | Tool                                          | Associated Project         | Skills/Knowledge Gained |
 |-----------------------------------------------|----------------------------|-------------------------|
