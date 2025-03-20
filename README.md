@@ -65,8 +65,6 @@ Il mio percorso nell'informatica mi ha portato a sviluppare una passione per la 
 
 ### Documentazione
 <div>
-    <a href="https://www.splunk.com/"><img src="https://www.splunk.com/content/dam/splunk-blogs/images/2016/07/IZs6mb60tEc0z534zMDoxOjBzMTu0hl.jpeg" width="100" /></a>
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 
@@ -129,13 +127,9 @@ Il mio percorso nell'informatica mi ha portato a sviluppare una passione per la 
 <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" />
 https://www.credly.com/badges/f5558655-c0a6-47c7-86c5-229c82c4418e/public_url
 
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" /> --> 
 </div>
 
 ## Projects
