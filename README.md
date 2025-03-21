@@ -29,6 +29,7 @@ Il mio percorso nell'informatica mi ha portato a sviluppare una passione per la 
 |-----------------------------------------------|----------------------------|-------------------------|
 | Esempio DAD/CIE Triade per un Sito Web | <a href="https://docs.google.com/document/d/19cf3JnNvvdCy69KgeT0Z1jEIeFUrw0LTtjCLLYEQtTA/edit?usp=sharing">Link</a> | CIA/DAD |
 | Risolviamo alcune Vulnerabilità STIG | <a href="https://docs.google.com/document/d/1-7JU1yNRq_M4XmltdZ-LE0XL2QesKHwqKbPI_qaVphM/edit?usp=sharing">Link</a> | Vulnerabilità, Tenable nessus |
+| Threat Hunting: Threat Hunting Data Exfiltration | <a href="https://docs.google.com/document/d/1R65mHLcjD2v-S-FhHk4elKCEqWJCpSNG/edit?usp=sharing&ouid=103985797548525829672&rtpof=true&sd=true">Link</a> | EDR, Threat Hunting |
 
 ### Network
 <div>
