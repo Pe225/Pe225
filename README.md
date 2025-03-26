@@ -70,7 +70,7 @@ Il mio percorso nell'informatica mi ha portato a sviluppare una passione per la 
 
 | Documenti                                     | Associated Project         | Skills/Knowledge Gained |
 |-----------------------------------------------|----------------------------|-------------------------|
-| Piano Risposta Incidenti - Phishing | <a href="https://docs.google.com/document/d/14zqAZZdT9yVdDmUBJntV9etMD7TW32ee/edit">Link</a>| NIEST, Incident Response |
+| Piano Risposta Incidenti - Phishing | <a href="https://docs.google.com/document/d/1tUs_lMW1VgDvbm1OEXdhqce3h1h-HgCx/edit?usp=sharing&ouid=103985797548525829672&rtpof=true&sd=true">Link</a>| NIEST, Incident Response |
 |PASTA|
 
 
