@@ -40,7 +40,7 @@ Il mio percorso nell'informatica mi ha portato a sviluppare una passione per la 
 
 | Network                                       | Associated Project         | Skills/Knowledge Gained |
 |-----------------------------------------------|----------------------------|-------------------------|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>| `Command-line Interface`, 'Packet Analyzer'|
+| VPN Wireguard | <a href="https://docs.google.com/document/d/1mFjN1VzRyx2g_LTXX_MyErAB5PYlzLKi1qdjZykVquw/edit?usp=sharing"> Link </a>| VPN |
 |Wireshark|
 |Tcpdump|
 | Osi, Protocolli |
